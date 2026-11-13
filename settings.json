@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Shortcut",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Trybestmod.aternos.me",
+    "port": 22783,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
