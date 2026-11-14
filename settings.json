@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Trybestmod.aternos.me",
-    "port": 22783,
+    "ip": "HYPIXEL1100.aternos.me",
+    "port": 23632,
     "version": "1.20.1",
     "try-creative": false
   },
